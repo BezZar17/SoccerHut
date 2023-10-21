@@ -4,3 +4,22 @@ body {
     color: white;
     font-family: 'Courgette', cursive
 }
+
+.container{
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 50px auto;
+}
+
+.container .box{
+    position: relative;
+    width: calc(400px - 30px);
+    height: calc(300px - 30px);
+    background: white;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
