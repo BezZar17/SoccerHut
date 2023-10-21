@@ -22,6 +22,7 @@ input{
     border-bottom: 1px solid #2d4fd855 ;
     background: transparent;
     color: white;
+    font-family: 'Courgette', cursive
 }
 button{
     width: 350px;

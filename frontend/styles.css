@@ -25,16 +25,8 @@ body {
 }
 
 button{
-    border-radius: 30px;
+    border-radius: 50%;
     background-color: white;
-    margin-left: 1700px;
-    
-}
-button:focus {
-    outline-color: transparent;
-    outline-style: solid;
-    box-shadow: 0 0 0 4px #2d4fd855;
-    transition: 0.5s;
 }
 
 .box, img{
@@ -43,6 +35,4 @@ button:focus {
     margin-top: 25px;
 }
 
-img{
-    mix-blend-mode: multiply;
-}
+
