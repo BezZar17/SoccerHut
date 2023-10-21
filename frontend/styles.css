@@ -23,3 +23,17 @@ body {
     overflow: hidden;
     border-radius: 10px;
 }
+
+button{
+    border-radius: 30px;
+}
+button:focus {
+    outline-color: transparent;
+    outline-style: solid;
+    box-shadow: 0 0 0 4px #2d4fd855;
+    transition: 0.5s;
+}
+
+h2, button{
+    display: inline-block;
+}
