@@ -26,6 +26,9 @@ body {
 
 button{
     border-radius: 30px;
+    background-color: white;
+    margin-left: 1700px;
+    
 }
 button:focus {
     outline-color: transparent;
@@ -34,6 +37,12 @@ button:focus {
     transition: 0.5s;
 }
 
-h2, button{
-    display: inline-block;
+.box, img{
+    width: 200px;
+    height: 200px;
+    margin-top: 25px;
+}
+
+img{
+    mix-blend-mode: multiply;
 }

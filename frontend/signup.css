@@ -5,6 +5,7 @@ body{
     height: 100vh;
     background-color: #2d4fd855;
     color: white;
+    font-family: 'Courgette', cursive
 }
 form{
     margin-top: 50px;
@@ -29,8 +30,10 @@ button{
     background-color: #2d4fd855;
     border: none;
     color: white;
+    font-family: 'Courgette', cursive
 }
 
 ::placeholder{
-    color: white
+    color: white;
+    font-family: 'Courgette', cursive
 }
