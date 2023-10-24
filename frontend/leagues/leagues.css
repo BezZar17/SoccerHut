@@ -5,3 +5,14 @@ body {
     font-family: 'Courgette', cursive
 }
 
+.container{
+    position: relative;
+    width: 150vh;
+    height: 100vh;
+    background: white;
+    margin: auto;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+    color: #2d4fd855;
+}
