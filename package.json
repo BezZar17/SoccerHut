@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BezZar17/SoccerHut/issues"
   },
-  "homepage": "https://github.com/BezZar17/SoccerHut#readme"
+  "homepage": "https://github.com/BezZar17/SoccerHut#readme",
+  "dependencies": {
+    "firebase": "^10.5.2"
+  }
 }
