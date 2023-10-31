@@ -6,3 +6,7 @@
 # How to use
     This app is really simple to use. You'll be given a few leagues around the world in which you can view current and past scores. If you want to make this page feel a big like yours, go ahead and create your own profile and favorite your favorite leagues and teams.
 
+# Technologies
+    JavaScript
+    Python
+    CSS
