@@ -10,3 +10,8 @@
     JavaScript
     Python
     CSS
+
+# Unfinished Functionalities
+    This app is yet to be completed.
+    Major setback has to do with the backend and implementing an API.
+    Sign Up function is currently disabled
